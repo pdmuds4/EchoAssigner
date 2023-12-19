@@ -1,0 +1,5 @@
+supabase
+dropbox
+fastapi
+uvicorn
+python-multipart
