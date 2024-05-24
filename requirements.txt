@@ -1,5 +1,11 @@
-supabase
-dropbox
-fastapi
-uvicorn
-python-multipart
+midi2audio
+mido
+music21
+numpy
+pandas
+scipy
+keras
+keras-metrics
+tensorflow
+tqdm
+samplings
